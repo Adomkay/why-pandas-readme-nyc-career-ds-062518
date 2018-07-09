@@ -52,6 +52,9 @@ Pandas also contains methods that wrap python's premier visualization library, [
 <br>
 <br>
 
-In this unit, we'll dig deep into all of the awesome functionality contained within pandas, and get you comfortable integrating pandas into your data science workflow.  
+
+### Getting Comfortable with Pandas
+
+Throughout this unit, we'll dig deep into all of the awesome functionality contained within pandas, and get you comfortable integrating pandas into your data science workflow.  Before we get into Dataframes, we'll start by learning about a data type that is the main building block of a Dataframe--the pandas `Series` object.   
 
 
