@@ -18,7 +18,7 @@ The most important functionality in `pandas` is the `DataFrame` class.  A **_Dat
 
 It only takes one line of code!
 
-<center><img src='dataframe-ss.jpg'></center>
+<center><img src='dataframe.jpg'></center>
 
 
 ### Basic overview of Pandas Functionality
@@ -28,27 +28,27 @@ Using `pandas` makes it a cinch to access data, by row or by column.
 For instance, if we wanted to just see the names of the passengers and the fare that they paid, we can do that easily in pandas:
 <br>   
 <br>
-<center><img src='column-slice-ss.jpg'></center>
+<center><img src='column-slice.jpg'></center>
 <br>
 
 
 If we want to view a specific row or subset of rows, that's easy too!
 <br>   
 <br>
-<center><img src='row-slice-ss.jpg'></center>
+<center><img src='row-slice.jpg'></center>
 
 Pandas is also much more than a storage tool. Pandas has an incredible amount of statistics, math, and visualization tools built in as well.  
 
 For instance, if we wanted to see the descriptive statistics for every numerical column, there's a method for that:
 <br>
 <br>
-<center><img src='describe-ss.jpg'></center>
+<center><img src='describe.jpg'></center>
 <br>
 <br>
 Pandas also contains methods that wrap python's premier visualization library, [matplotlib](https://matplotlib.org/).  For instance, if we wanted to visualize a histogram of ticket classes, that's an easy task in pandas:
 <br>
 <br>
-<center><img src='plot-ss.jpg'></center>
+<center><img src='plot.jpg'></center>
 <br>
 <br>
 
